@@ -1,2 +1,2 @@
-# meteo-python
+# PRÁCTICA-PYTHON
 Trabajo Alba y Eva
